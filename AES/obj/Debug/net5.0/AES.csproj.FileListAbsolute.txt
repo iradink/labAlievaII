@@ -1,0 +1,16 @@
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\AES.exe
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\AES.deps.json
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\AES.runtimeconfig.json
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\AES.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\AES.dll
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\ref\AES.dll
+C:\Users\Pavel\Desktop\lab1\AES\AES\bin\Debug\net5.0\AES.pdb
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.dll
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\ref\AES.dll
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.pdb
+C:\Users\Pavel\Desktop\lab1\AES\AES\obj\Debug\net5.0\AES.genruntimeconfig.cache
